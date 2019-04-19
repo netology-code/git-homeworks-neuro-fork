@@ -17,4 +17,8 @@
             earlyorderContact.value = '';
         }, 500);
     });
+
+(async () => {
+    // TODO: add custom logic here
+
 })();
