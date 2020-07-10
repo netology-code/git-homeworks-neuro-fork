@@ -1,3 +1,4 @@
+
 (() => {
     const earlyorderForm = document.querySelector('#earlyorder-form');
 
@@ -17,4 +18,6 @@
             earlyorderContact.value = '';
         }, 500);
     });
+(async () => {
+    // TODO: add custom logic here
 })();
