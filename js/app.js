@@ -16,5 +16,6 @@
             $('#earlyorderModal').modal('show');
             earlyorderContact.value = '';
         }, 500);
-    });
+    });(async () => {
+    / TODO: add custom logic hereai
 })();
