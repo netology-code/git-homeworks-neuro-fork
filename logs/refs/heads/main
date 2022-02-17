@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 5b415cb16545fce3102e410395db42fe3338fc27 Vasya <vasya@localhost> 1541720493 +0300	commit (initial): Первоначальная версия
+5b415cb16545fce3102e410395db42fe3338fc27 6aa1c0b172e285ee42e9a1045f32548414d75ed4 Vasya <vasya@localhost> 1541723772 +0300	merge feature/copywriting: Merge made by the 'recursive' strategy.
+6aa1c0b172e285ee42e9a1045f32548414d75ed4 696145bb354662d84365267143260e90e499a1b1 Oleg <oleg@localhost> 1543217725 +0300	merge feature/geo: Merge made by the 'recursive' strategy.
+696145bb354662d84365267143260e90e499a1b1 696145bb354662d84365267143260e90e499a1b1 Oleg <oleg@localhost> 1631115666 +0300	Branch: renamed refs/heads/master to refs/heads/main

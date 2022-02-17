@@ -1,0 +1,18 @@
+0000000000000000000000000000000000000000 5b415cb16545fce3102e410395db42fe3338fc27 Vasya <vasya@localhost> 1541720493 +0300	commit (initial): Первоначальная версия
+5b415cb16545fce3102e410395db42fe3338fc27 5b415cb16545fce3102e410395db42fe3338fc27 Vasya <vasya@localhost> 1541722618 +0300	checkout: moving from master to feature/copywriting
+5b415cb16545fce3102e410395db42fe3338fc27 5b415cb16545fce3102e410395db42fe3338fc27 Oleg <oleg@localhost> 1541722674 +0300	checkout: moving from feature/copywriting to feature/earlyorder
+5b415cb16545fce3102e410395db42fe3338fc27 5b415cb16545fce3102e410395db42fe3338fc27 Oleg <oleg@localhost> 1541722741 +0300	reset: moving to HEAD
+5b415cb16545fce3102e410395db42fe3338fc27 5b415cb16545fce3102e410395db42fe3338fc27 Oleg <oleg@localhost> 1541722757 +0300	checkout: moving from feature/earlyorder to feature/copywriting
+5b415cb16545fce3102e410395db42fe3338fc27 b775baed3d4acb1f42d19bc9bedf6526cc6c07d8 Vasya <vasya@localhost> 1541722885 +0300	commit: Rewriting
+b775baed3d4acb1f42d19bc9bedf6526cc6c07d8 5b415cb16545fce3102e410395db42fe3338fc27 Oleg <oleg@localhost> 1541722924 +0300	checkout: moving from feature/copywriting to feature/earlyorder
+5b415cb16545fce3102e410395db42fe3338fc27 461fac59ae92580a91119846dde6767a44c05f52 Oleg <oleg@localhost> 1541723689 +0300	commit: Early Order
+461fac59ae92580a91119846dde6767a44c05f52 5b415cb16545fce3102e410395db42fe3338fc27 Vasya <vasya@localhost> 1541723743 +0300	checkout: moving from feature/earlyorder to master
+5b415cb16545fce3102e410395db42fe3338fc27 6aa1c0b172e285ee42e9a1045f32548414d75ed4 Vasya <vasya@localhost> 1541723772 +0300	merge feature/copywriting: Merge made by the 'recursive' strategy.
+6aa1c0b172e285ee42e9a1045f32548414d75ed4 461fac59ae92580a91119846dde6767a44c05f52 Vasya <vasya@localhost> 1541723823 +0300	checkout: moving from master to feature/earlyorder
+461fac59ae92580a91119846dde6767a44c05f52 6aa1c0b172e285ee42e9a1045f32548414d75ed4 Oleg <oleg@localhost> 1543216599 +0300	checkout: moving from feature/earlyorder to master
+6aa1c0b172e285ee42e9a1045f32548414d75ed4 6aa1c0b172e285ee42e9a1045f32548414d75ed4 Oleg <oleg@localhost> 1543216844 +0300	checkout: moving from master to feature/geo
+6aa1c0b172e285ee42e9a1045f32548414d75ed4 7516f316cc75ade9ece7aaa6c61f2991ece46b32 Oleg <oleg@localhost> 1543217635 +0300	commit: Geolocation added
+7516f316cc75ade9ece7aaa6c61f2991ece46b32 6aa1c0b172e285ee42e9a1045f32548414d75ed4 Oleg <oleg@localhost> 1543217644 +0300	checkout: moving from feature/geo to master
+6aa1c0b172e285ee42e9a1045f32548414d75ed4 696145bb354662d84365267143260e90e499a1b1 Oleg <oleg@localhost> 1543217725 +0300	merge feature/geo: Merge made by the 'recursive' strategy.
+696145bb354662d84365267143260e90e499a1b1 0000000000000000000000000000000000000000 Oleg <oleg@localhost> 1631115666 +0300	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 696145bb354662d84365267143260e90e499a1b1 Oleg <oleg@localhost> 1631115666 +0300	Branch: renamed refs/heads/master to refs/heads/main
