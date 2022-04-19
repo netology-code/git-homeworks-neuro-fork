@@ -10,11 +10,19 @@
         if (contact === '') {
             return;
         }
-        
+
         // TODO: send email simulation:
         setTimeout(() => {
             $('#earlyorderModal').modal('show');
             earlyorderContact.value = '';
         }, 500);
     });
+(async () => {
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(position => {
+            const coordsEl = document.querySelector('#user-coords');
+            coordsEl.textContent = `${position.coords.latitude}, ${position.coords.longitude}`
+            coordsEl.parentElement.classList.remove('invisible');
+        });
+    }
 })();
