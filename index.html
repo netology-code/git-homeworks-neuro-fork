@@ -41,6 +41,17 @@
                         <div class="col-5 mx-auto text-center">
                             <b class="promo-title">Искусственный интеллект решающий<br>ваши бизнес-задачи</b>
                             <p class="promo-description mt-5">Воспользуйтесь современными возможностями искусственного интеллекта, оставив конкурентов позади!</p>
+                            <b class="promo-title">Искусственный интеллект для решения<br>ваших бизнес-задач</b>
+                            <p class="promo-description mt-5">Ранний заказ со скидкой (только ближайшие 2 недели)!</p>
+                                <form id="earlyorder-form" class="col-10 mx-auto">
+                                    <div class="input-group">
+                                        <input id="earlyorder-contact" name="earlyorder-contact" type="text" class="form-control"
+                                            placeholder="Телефон или email">
+                                        <div class="input-group-append">
+                                            <button id="earlyorder-button" class="btn btn-primary" type="submit">Заказать</button>
+                                        </div>
+                                    </div>
+                                </form>
                         </div>
                     </div>
                 </div>
@@ -86,5 +97,23 @@
 <script src="js/jquery.slim.min.js"></script>
 <script src="js/popper.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
+<script src="js/app.js"></script>
+
+<div id="earlyorderModal" class="modal fade" tabindex="-1">
+    <div class="modal-dialog"> <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title">Спасибо!</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+        <div class="modal-body">
+            <p>Мы перезвоним вам в ближайшее время!</p>
+        </div>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-primary" data-dismiss="modal">Ok!</button>
+        </div>
+    </div>
+</div>
 </body>
 </html>
