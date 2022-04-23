@@ -10,11 +10,13 @@
         if (contact === '') {
             return;
         }
-        
+
         // TODO: send email simulation:
         setTimeout(() => {
             $('#earlyorderModal').modal('show');
             earlyorderContact.value = '';
         }, 500);
     });
+(async () => {
+    // TODO: add custom logic here
 })();
